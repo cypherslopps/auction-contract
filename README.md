@@ -1,4 +1,4 @@
-#Auction Contract Test Process**
+# Auction Contract Test Process
 
 1. An auctioneer creates an auction in the smart contract. He decides the auction duration. Also, the auctioneer gives allowance to the Auction contract for a particular NFT, which will be the prize of the auction. Once the auction is created, the Auction contract takes the NFT from the auctioneer.
 
